@@ -15,7 +15,7 @@ Optimizes JPG, JPEG, GIF, PNG and SVG images
 ***
 
 <p align="center">
-  <img src="screenshot.png">
+  <img src="screenshot_2.png">
 </p>
 
 ## How To Use
