@@ -20,9 +20,9 @@ Optimizes JPG, JPEG, GIF, PNG and SVG images
 
 ## How To Use
 
-$ Use VSCode's Live Serve and script 'sass:dev' in mode deveploment in the src folder.
+$ ###Use VSCode's Live Serve and script 'sass:dev' in mode deveploment in the src folder.
 
-$ Use script 'build' in mode production.
+$ ###Use script 'build' in mode production.
 
 
 ```bash
