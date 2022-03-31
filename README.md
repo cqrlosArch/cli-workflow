@@ -20,7 +20,9 @@ Optimizes JPG, JPEG, GIF, PNG and SVG images
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) or [yarnjs](https://yarnpkg.com/) installed on your computer. From your command line:
+$ Use VSCode's Live Serve and script 'sass:dev' in mode deveploment in the src folder.
+$ Use script 'build' in mode production.
+
 
 ```bash
 # Clone this repository
