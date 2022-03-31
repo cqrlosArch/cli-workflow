@@ -25,6 +25,7 @@ Optimizes JPG, JPEG, GIF, PNG and SVG images
 - ### Use script **'build'** in mode production.
 
 
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/cqrlosArch/cli-workflow
